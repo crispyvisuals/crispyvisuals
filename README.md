@@ -23,8 +23,8 @@
 - **Portfolio Website**  
   Designing and developing  a responsive website to showcase computer science projects and photography work, combining technical functionality with visual storytelling.
 
-  **Homelab**
-  CyberSecurity Portfolio Project
+- **Homelab**
+  CyberSecurity Portfolio Project.
 
 
 
