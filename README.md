@@ -21,9 +21,10 @@
   A flexible image conversion tool that supports various formats (e.g., PNG to WEBP, JPEG to BMP).
 
 - **Portfolio Website**  
-  Designing and developing  a responsive website to showcase computer science projects and photography work, combining technical functionality with visual storytelling.
+  Designing and developing a responsive website to showcase computer science projects and photography work, combining technical functionality with visual storytelling.
 
 - **Homelab**
+  
   CyberSecurity Portfolio Project.
 
 
