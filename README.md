@@ -8,18 +8,6 @@
 
 
 ## 💻 Current Projects
-- **Hand Tracking**  
-  Developing a real-time hand tracking system using AI and computer vision to detect hand movements.
-
-- **Volume Hand Control**  
-  An extension of the hand tracking project that allows users to raise or lower system volume using hand gestures.
-
-- **YouTube Downloader**  
-  A tool that downloads YouTube videos in either MP3 (audio) or MP4 (video) formats, with a simple user interface.
-
-- **Image Converter**  
-  A flexible image conversion tool that supports various formats (e.g., PNG to WEBP, JPEG to BMP).
-
 - **Portfolio Website**  
   Designing and developing a responsive website to showcase computer science projects and photography work, combining technical functionality with visual storytelling.
 
