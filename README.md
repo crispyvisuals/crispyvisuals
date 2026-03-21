@@ -26,5 +26,5 @@ In addition to programming, I run a visual media page where I showcase my portra
 
 ## 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/chris-batista/)  
-- [Instagram Portfolio](https://www.instagram.com/crispysvisuals/)  
+- [Portfolio](https://www.instagram.com/crispysvisuals/)  
 - 📧 Email: crispyvisuals76@gmail.com
