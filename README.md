@@ -9,11 +9,16 @@
 
 ## 💻 Current Projects
 - **Portfolio Website**  
-  Designing and developing a responsive website to showcase computer science projects and photography work, combining technical functionality with visual storytelling.
+  Designed and developed a responsive personal website to showcase CS projects and photography. Implemented interactive UI features and custom styling for improved user experience. Integrated project sections, featured work, and dynamic content organization
 
 - **Homelab**
   
-  CyberSecurity Portfolio Project.
+  Built and deployed a self-hosted server using Ubuntu Server on a Dell OptiPlex.
+  
+  Implemented remote access and local networking for development and testing.
+  
+  Configured Docker containers.
+
 
 
 
